@@ -22,6 +22,8 @@ public class stepDefination
 	@Before(order=0)
 	public void BroswerSetup()
 	{
+		
+	System.out.println("I am doing this changes for X to refelct lets check will it do or not");	
 		String ProjectPath=System.getProperty("user.dir");
 		System.out.println(ProjectPath);
 		

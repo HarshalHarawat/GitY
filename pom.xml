@@ -79,11 +79,6 @@
     <version>1.2.5</version>
 </dependency>
 
-  	<dependency>
-  		<groupId>Selenium</groupId>
-  		<artifactId>Selenium-java</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
-  	</dependency>
   </dependencies>
     
 
