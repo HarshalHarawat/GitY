@@ -41,6 +41,7 @@ public class stepDefination
 	@After
 	public void teardown()
 	{
+		System.out.println("Here we will close the broswer ");
 		driver.quit();
 		
 	}
